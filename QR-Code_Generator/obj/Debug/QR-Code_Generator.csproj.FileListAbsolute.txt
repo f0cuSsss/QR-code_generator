@@ -1,0 +1,14 @@
+C:\Users\f0cuS\source\repos\QR-Code_Generator\QR-Code_Generator\bin\Debug\QR-Code_Generator.exe.config
+C:\Users\f0cuS\source\repos\QR-Code_Generator\QR-Code_Generator\bin\Debug\QR-Code_Generator.exe
+C:\Users\f0cuS\source\repos\QR-Code_Generator\QR-Code_Generator\bin\Debug\QR-Code_Generator.pdb
+C:\Users\f0cuS\source\repos\QR-Code_Generator\QR-Code_Generator\obj\Debug\QR-Code_Generator.csprojAssemblyReference.cache
+C:\Users\f0cuS\source\repos\QR-Code_Generator\QR-Code_Generator\obj\Debug\QR_Code_Generator.Form1.resources
+C:\Users\f0cuS\source\repos\QR-Code_Generator\QR-Code_Generator\obj\Debug\QR_Code_Generator.Properties.Resources.resources
+C:\Users\f0cuS\source\repos\QR-Code_Generator\QR-Code_Generator\obj\Debug\QR-Code_Generator.csproj.GenerateResource.cache
+C:\Users\f0cuS\source\repos\QR-Code_Generator\QR-Code_Generator\obj\Debug\QR-Code_Generator.csproj.CoreCompileInputs.cache
+C:\Users\f0cuS\source\repos\QR-Code_Generator\QR-Code_Generator\obj\Debug\QR-Code_Generator.exe
+C:\Users\f0cuS\source\repos\QR-Code_Generator\QR-Code_Generator\obj\Debug\QR-Code_Generator.pdb
+C:\Users\f0cuS\source\repos\QR-Code_Generator\QR-Code_Generator\bin\Debug\System.Drawing.Common.dll
+C:\Users\f0cuS\source\repos\QR-Code_Generator\QR-Code_Generator\obj\Debug\QR-Code_Generator.csproj.CopyComplete
+C:\Users\f0cuS\source\repos\QR-Code_Generator\QR-Code_Generator\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\f0cuS\source\repos\QR-Code_Generator\QR-Code_Generator\obj\Debug\QR_Code_Generator.QRCodeForm.resources
